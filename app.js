@@ -52,3 +52,39 @@
 //colors.unshift(addcolor);
 //document.write("Display the updated array in your browser:  "+" "+colors)
 
+//var addcolorend= prompt("add that color to the end of the array");
+//Color.push(addcolorend);
+
+
+//color.unshift("yellow","orange");
+
+//color.shift("green");
+
+
+//color.pop("pink");
+
+
+//--------Q.10.
+
+
+//var numsort =[320,230,480,120]
+//numsort.sort();
+//console.log(numsort);
+
+
+//--------Q.11.
+
+var cities = ["karachi","lahore","multan","peshawar"];
+var selectcities =[];
+selectcities =cities.slice(1,2)
+console.log("array cities"+cities);
+console.log("select cities"+selectcities);
+
+
+
+//--------Q.12.
+
+
+//var arryy = ["This","is","my","cat”];
+
+//console.log(arryy.join(" "));
